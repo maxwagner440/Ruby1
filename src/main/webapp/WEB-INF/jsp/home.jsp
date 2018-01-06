@@ -43,18 +43,23 @@
     <body>
     
     <style>
+	
+	
 	 #map {
-   width: 80%;
-   height: 400px;
-   background-color: grey;
- }
+    width: 84%;
+    height: 341px;
+    background-color: grey;
+    margin-top: 3.7%;
+    margin-bottom: 4%;
+    margin-left: 6%;
+ 		}
  
 
  
- .outerdiv {
+ 	.outerdiv {
 			border-style: solid;
-			border-width: 20px;
-			border-color: #95be8b;
+			border-width: 6px;
+			border-color: #e4e4e4;
   		}
  
       #legend {
@@ -97,7 +102,6 @@
 						<li><a class="scroll-link" href="#what-we-do">Services</a></li>
 						<li><a class="scroll-link" href="#portfolio">Portfolio</a></li>
 						<li><a class="scroll-link" href="#pricing-2">Prices</a></li>
-						<li><a class="scroll-link" href="#about">About</a></li>
 						<li><a class="scroll-link" href="#contact">Contact</a></li>
 					</ul>
 				</div>
@@ -110,7 +114,7 @@
             	<h1>Welcome to Hidden Gem</h1>
             	<p>We aim to please!</p>
             	<div class="page-title-bottom-link">
-            		<a class="big-link-1 btn scroll-link" href="#pricing-2">Start now</a>
+            		<a class="big-link-1 btn scroll-link" href="#contact">Book now</a>
             		<a class="big-link-2 btn scroll-link" href="#what-we-do">Learn more</a>
             	</div>
             </div>
@@ -162,67 +166,67 @@
 	        </div>
         </div>
         
-        <!-- Clients -->
-        <div class="clients-container section-container section-container-gray">
-        	<div class="container">
-        		<div class="row">
-        			<div class="col-sm-2 clients-text wow fadeInLeft">
-                    	<h3>We've worked with these guys:</h3>
-	            	</div>
-	            	<div class="col-sm-10 clients wow fadeInUp">
-                    	<a href="https://wrapbootstrap.com/theme/trilli-bi-fullscreen-landing-page-WB000X02N?ref=azmind" target="_blank" rel="nofollow">
-                    		<img src="img/clients/1.png" alt="" data-at2x="img/clients/1.png">
-                    	</a>
-                    	<a href="https://wrapbootstrap.com/theme/areta-agency-portfolio-template-WB0L5XF38?ref=azmind" target="_blank" rel="nofollow">
-                    		<img src="img/clients/2.png" alt="" data-at2x="img/clients/2.png">
-                    	</a>
-                    	<a href="https://wrapbootstrap.com/theme/seria-coming-soon-landing-page-WB05D4591?ref=azmind" target="_blank" rel="nofollow">
-                    		<img src="img/clients/3.png" alt="" data-at2x="img/clients/3.png">
-                    	</a>
-                    	<a href="https://wrapbootstrap.com/theme/jesis-responsive-app-landing-page-WB085528N?ref=azmind" target="_blank" rel="nofollow">
-                    		<img src="img/clients/4.png" alt="" data-at2x="img/clients/4.png">
-                    	</a>
-	            	</div>
-	            </div>
-        	</div>
-        </div>
+<!--         Clients -->
+<!--         <div class="clients-container section-container section-container-gray"> -->
+<!--         	<div class="container"> -->
+<!--         		<div class="row"> -->
+<!--         			<div class="col-sm-2 clients-text wow fadeInLeft"> -->
+<!--                     	<h3>We've worked with these guys:</h3> -->
+<!-- 	            	</div> -->
+<!-- 	            	<div class="col-sm-10 clients wow fadeInUp"> -->
+<!--                     	<a href="https://wrapbootstrap.com/theme/trilli-bi-fullscreen-landing-page-WB000X02N?ref=azmind" target="_blank" rel="nofollow"> -->
+<!--                     		<img src="img/clients/1.png" alt="" data-at2x="img/clients/1.png"> -->
+<!--                     	</a> -->
+<!--                     	<a href="https://wrapbootstrap.com/theme/areta-agency-portfolio-template-WB0L5XF38?ref=azmind" target="_blank" rel="nofollow"> -->
+<!--                     		<img src="img/clients/2.png" alt="" data-at2x="img/clients/2.png"> -->
+<!--                     	</a> -->
+<!--                     	<a href="https://wrapbootstrap.com/theme/seria-coming-soon-landing-page-WB05D4591?ref=azmind" target="_blank" rel="nofollow"> -->
+<!--                     		<img src="img/clients/3.png" alt="" data-at2x="img/clients/3.png"> -->
+<!--                     	</a> -->
+<!--                     	<a href="https://wrapbootstrap.com/theme/jesis-responsive-app-landing-page-WB085528N?ref=azmind" target="_blank" rel="nofollow"> -->
+<!--                     		<img src="img/clients/4.png" alt="" data-at2x="img/clients/4.png"> -->
+<!--                     	</a> -->
+<!-- 	            	</div> -->
+<!-- 	            </div> -->
+<!--         	</div> -->
+<!--         </div> -->
 
-		<!-- Block 2 -->
-        <div class="block-2-container section-container">
-	        <div class="container">
-	            <div class="row">
-	            	<div class="col-sm-6 block-2-box block-2-left block-2-media wow fadeInLeft">
-	            		<div class="block-2-img-container">
-	            			<img src="img/about/4.jpg" alt="" data-at2x="img/about/4.jpg">
-	            			<div class="img-container-line line-1"></div>
-	            			<div class="img-container-line line-2"></div>
-	            			<div class="img-container-line line-3"></div>
-	            		</div>
-	            	</div>
-	            	<div class="col-sm-6 block-2-box block-2-right wow fadeInUp">	            		
-	            		<h3>We love web design</h3>
-	            		<p>
-	            			Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit 
-	            			lobortis nisl ut aliquip ex ea commodo consequat.
-	            		</p>
-	            		<ul>
-	            			<li>
-	            				<span aria-hidden="true" class="icon_check list-icon"></span> Etiam processus dynamicus qui
-	            			</li>
-	            			<li>
-	            				<span aria-hidden="true" class="icon_check list-icon"></span> Quam nunc putamus Photoshop
-	            			</li>
-	            			<li>
-	            				<span aria-hidden="true" class="icon_check list-icon"></span> Mutationem consuetudium WordPress
-	            			</li>
-	            			<li>
-	            				<span aria-hidden="true" class="icon_check list-icon"></span> Exerci tation ullamcorper
-	            			</li>
-	            		</ul>
-	            	</div>
-	            </div>
-	        </div>
-        </div>
+<!-- 		<!-- Block 2 --> -->
+<!--         <div class="block-2-container section-container"> -->
+<!-- 	        <div class="container"> -->
+<!-- 	            <div class="row"> -->
+<!-- 	            	<div class="col-sm-6 block-2-box block-2-left block-2-media wow fadeInLeft"> -->
+<!-- 	            		<div class="block-2-img-container"> -->
+<!-- 	            			<img src="img/about/4.jpg" alt="" data-at2x="img/about/4.jpg"> -->
+<!-- 	            			<div class="img-container-line line-1"></div> -->
+<!-- 	            			<div class="img-container-line line-2"></div> -->
+<!-- 	            			<div class="img-container-line line-3"></div> -->
+<!-- 	            		</div> -->
+<!-- 	            	</div> -->
+<!-- 	            	<div class="col-sm-6 block-2-box block-2-right wow fadeInUp">	            		 -->
+<!-- 	            		<h3>We love web design</h3> -->
+<!-- 	            		<p> -->
+<!-- 	            			Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit  -->
+<!-- 	            			lobortis nisl ut aliquip ex ea commodo consequat. -->
+<!-- 	            		</p> -->
+<!-- 	            		<ul> -->
+<!-- 	            			<li> -->
+<!-- 	            				<span aria-hidden="true" class="icon_check list-icon"></span> Etiam processus dynamicus qui -->
+<!-- 	            			</li> -->
+<!-- 	            			<li> -->
+<!-- 	            				<span aria-hidden="true" class="icon_check list-icon"></span> Quam nunc putamus Photoshop -->
+<!-- 	            			</li> -->
+<!-- 	            			<li> -->
+<!-- 	            				<span aria-hidden="true" class="icon_check list-icon"></span> Mutationem consuetudium WordPress -->
+<!-- 	            			</li> -->
+<!-- 	            			<li> -->
+<!-- 	            				<span aria-hidden="true" class="icon_check list-icon"></span> Exerci tation ullamcorper -->
+<!-- 	            			</li> -->
+<!-- 	            		</ul> -->
+<!-- 	            	</div> -->
+<!-- 	            </div> -->
+<!-- 	        </div> -->
+<!--         </div> -->
         
         <!-- Map -->
        
@@ -230,22 +234,30 @@
 	        <div class="container">
 	            <div class="row">
 	             <div class="col-md-4 block-2-box block-2-right wow fadeInUp box-green">
+	             <div class="box-white">
         <ul>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_check list-icon"></span> Etiam processus dynamicus qui
+	            				<h3>Hidden Gem Massage</h3>
+	            			</li>
+	            			<li><div class="p-font">
+	            				<strong>Hours:</strong><br>
+	            				<div>
+	            				<strong>M-F:</strong> 9:30a - 9:00p</div>
+	            				<div><strong>Sat:</strong> Closed</div>
+	            				<div><strong>Sun: </strong>10:00a - 5:00p</div>
+	            				</div>
 	            			</li>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_check list-icon"></span> Quam nunc putamus Photoshop
+	            				Address Line 1 <br>
+	            				Address Line 2 
 	            			</li>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_check list-icon"></span> Mutationem consuetudium WordPress
-	            			</li>
-	            			<li>
-	            				<span aria-hidden="true" class="icon_check list-icon"></span> Exerci tation ullamcorper
+	            			
 	            			</li>
 	            		</ul>
+	            		</div>
         </div>
-	            		<div class="col-md-8" >
+	            		<div class="col-md-8 green" >
 		<div class="park-title">
 		
 		</div>
@@ -257,36 +269,36 @@
 	        </div>
         </div>
         
-        <!-- Counters -->
-        <div class="counters-container section-container section-container-full-bg">
-        	<div class="container">
-        		<div class="row">
-	            	<div class="col-sm-3 counter-box wow fadeInUp">
-                    	<h4 data-from="0" data-to="12">0</h4>
-                    	<p>Years of experience</p>
-	            	</div>
-	            	<div class="col-sm-3 counter-box wow fadeInDown">
-                    	<h4 data-from="0" data-to="274">0</h4>
-                    	<p>Projects completed</p>
-	            	</div>
-	            	<div class="col-sm-3 counter-box wow fadeInUp">
-                    	<h4 data-from="0" data-to="19295">0</h4>
-                    	<p>Lines of code</p>
-	            	</div>
-	            	<div class="col-sm-3 counter-box wow fadeInDown">
-                    	<h4 data-from="0" data-to="8296">0</h4>
-                    	<p>Cups of coffee</p>
-	            	</div>
-	            </div>
-        	</div>
-        </div>
+<!--         Counters -->
+<!--         <div class="counters-container section-container section-container-full-bg"> -->
+<!--         	<div class="container"> -->
+<!--         		<div class="row"> -->
+<!-- 	            	<div class="col-sm-3 counter-box wow fadeInUp"> -->
+<!--                     	<h4 data-from="0" data-to="12">0</h4> -->
+<!--                     	<p>Years of experience</p> -->
+<!-- 	            	</div> -->
+<!-- 	            	<div class="col-sm-3 counter-box wow fadeInDown"> -->
+<!--                     	<h4 data-from="0" data-to="274">0</h4> -->
+<!--                     	<p>Projects completed</p> -->
+<!-- 	            	</div> -->
+<!-- 	            	<div class="col-sm-3 counter-box wow fadeInUp"> -->
+<!--                     	<h4 data-from="0" data-to="19295">0</h4> -->
+<!--                     	<p>Lines of code</p> -->
+<!-- 	            	</div> -->
+<!-- 	            	<div class="col-sm-3 counter-box wow fadeInDown"> -->
+<!--                     	<h4 data-from="0" data-to="8296">0</h4> -->
+<!--                     	<p>Cups of coffee</p> -->
+<!-- 	            	</div> -->
+<!-- 	            </div> -->
+<!--         	</div> -->
+<!--         </div> -->
         
         <!-- Portfolio -->
         <div class="portfolio-container section-container">
 	        <div class="container">
 	            <div class="row">
 	                <div class="col-sm-12 portfolio section-description wow fadeIn">
-	                	<h2>Our portfolio</h2>
+	                	<h2>The Studio</h2>
 	                    <div class="divider-1 wow fadeInUp"><span></span></div>
 	                    <p>
 	                    	Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum 
@@ -297,9 +309,9 @@
 	            <div class="row">
 	            	<div class="col-sm-12 portfolio-filters wow fadeInUp">
 	            		<a href="#" class="filter-all active">All</a> / 
-	            		<a href="#" class="filter-design">Design</a> / 
-	            		<a href="#" class="filter-development">Development</a> / 
-	            		<a href="#" class="filter-branding">Branding</a>
+	            		<a href="#" class="filter-design">Bed</a> / 
+	            		<a href="#" class="filter-development">Space</a> / 
+	            		<a href="#" class="filter-branding">Oils</a>
 	            	</div>
 	            </div>
 	            <div class="row">
@@ -384,22 +396,7 @@
 		                		</div>
 		                	</div>
 		                </div>
-		                <div class="portfolio-box development">
-		                	<img src="img/portfolio/11.jpg" alt="" data-at2x="img/portfolio/11.jpg">
-		                	<div class="portfolio-box-text-container">
-		                		<div class="portfolio-box-text">
-		                			<p>Etiam processus social</p>
-		                		</div>
-		                	</div>
-		                </div>
-		                <div class="portfolio-box branding">
-		                	<img src="img/portfolio/12.jpg" alt="" data-at2x="img/portfolio/12.jpg">
-		                	<div class="portfolio-box-text-container">
-		                		<div class="portfolio-box-text">
-		                			<p>Sit website logo</p>
-		                		</div>
-		                	</div>
-		                </div>
+		                
 	                </div>
 	            </div>
 	        </div>
@@ -410,25 +407,24 @@
 	        <div class="container">
 	            <div class="row">
 	            	<div class="col-sm-6 block-2-box block-2-left wow fadeInLeft">
-	            		<h3>How we do it?</h3>
-	            		<p>
-	            			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
-	            			incididunt ut labore et dolore magna.
-	            		</p>
+	            		<div class="ben-font">
+	            		<h3>Benefits of Relaxation Massage</h3>
+	            		
 	            		<ul>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Etiam processus dynamicus qui
+	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Reason One
 	            			</li>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Quam nunc putamus Photoshop
+	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Reason Two
 	            			</li>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Mutationem consuetudium WordPress
+	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Reason Three
 	            			</li>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Exerci tation ullamcorper
+	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Reason Four
 	            			</li>
 	            		</ul>
+	            	</div>
 	            	</div>
 	            	<div class="col-sm-6 block-2-box block-2-right block-2-media wow fadeInUp">
 	            		<div class="video-box">
@@ -625,124 +621,7 @@
                 </div>
 	        </div>
         </div>
-        
-        <!-- About us -->
-        <div class="about-container section-container">
-	        <div class="container">
-	            <div class="row">
-	                <div class="col-sm-12 about section-description wow fadeIn">
-	                    <h2>About us</h2>
-	                    <div class="divider-1 wow fadeInUp"><span></span></div>
-	                    <p>
-	                    	Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut 
-	                    	aliquip ex ea commodo consequat. Ut wisi enim ad minim veniam, quis nostrud.
-	                    </p>
-	                </div>
-	            </div>
-	        </div>
-        </div>
-        
-        <!-- Block 2 (team member) -->
-        <div class="block-2-container section-container about-block-2-container">
-	        <div class="container">
-	            <div class="row">
-	            	<div class="col-sm-4 block-2-box block-2-left block-2-media wow fadeInLeft">
-	            		<div class="block-2-img-container">
-	            			<img src="assets/img/about/1.jpg" alt="" data-at2x="img/about/1.jpg">
-	            			<div class="img-container-line line-1"></div>
-	            			<div class="img-container-line line-2"></div>
-	            			<div class="img-container-line line-3"></div>
-	            		</div>
-	            	</div>
-	            	<div class="col-sm-8 block-2-box block-2-right wow fadeInUp">
-	            		<h3>Jane Doe / <span>Our CEO</span></h3>
-	            		<p>
-	            			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-	            			labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-	            		</p>
-	            		<p>
-	            			Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. 
-	            			Mirum est notare quam littera gothica, quam nunc putamus parum claram lorem.
-	            		</p>
-	            		<h3>Follow Her:</h3>
-	            		<div class="about-social">
-		                	<a href="#"><i class="fa fa-facebook"></i></a>
-		                	<a href="#"><i class="fa fa-dribbble"></i></a>
-		                    <a href="#"><i class="fa fa-twitter"></i></a>
-		                    <a href="#"><i class="fa fa-pinterest"></i></a>
-		                </div>
-	            	</div>
-	            </div>
-	        </div>
-        </div>
-        
-        <!-- Block 2 (team member) -->
-        <div class="block-2-container section-container section-container-gray about-block-2-container">
-	        <div class="container">
-	            <div class="row">
-	            	<div class="col-sm-8 block-2-box block-2-left wow fadeInLeft">
-	            		<h3>Tim Brown / <span>Developer</span></h3>
-	            		<p>
-	            			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-	            			labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-	            		</p>
-	            		<p>
-	            			Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. 
-	            			Mirum est notare quam littera gothica, quam nunc putamus parum claram lorem.
-	            		</p>
-	            		<h3>Follow Him:</h3>
-	            		<div class="about-social">
-		                	<a href="#"><i class="fa fa-facebook"></i></a>
-		                	<a href="#"><i class="fa fa-dribbble"></i></a>
-		                    <a href="#"><i class="fa fa-twitter"></i></a>
-		                    <a href="#"><i class="fa fa-pinterest"></i></a>
-		                </div>
-	            	</div>
-	            	<div class="col-sm-4 block-2-box block-2-right block-2-media wow fadeInUp">
-	            		<div class="block-2-img-container">
-	            			<img src="assets/img/about/2.jpg" alt="" data-at2x="img/about/2.jpg">
-	            			<div class="img-container-line line-1"></div>
-	            			<div class="img-container-line line-2"></div>
-	            			<div class="img-container-line line-3"></div>
-	            		</div>
-	            	</div>
-	            </div>
-	        </div>
-        </div>
-        
-        <!-- Block 2 (team member) -->
-        <div class="block-2-container section-container about-block-2-container">
-	        <div class="container">
-	            <div class="row">
-	            	<div class="col-sm-4 block-2-box block-2-left block-2-media wow fadeInLeft">
-	            		<div class="block-2-img-container">
-	            			<img src="assets/img/about/3.jpg" alt="" data-at2x="img/about/3.jpg">
-	            			<div class="img-container-line line-1"></div>
-	            			<div class="img-container-line line-2"></div>
-	            			<div class="img-container-line line-3"></div>
-	            		</div>
-	            	</div>
-	            	<div class="col-sm-8 block-2-box block-2-right wow fadeInUp">
-	            		<h3>Sarah Red / <span>Designer</span></h3>
-	            		<p>
-	            			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-	            			labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-	            		</p>
-	            		<p>
-	            			Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. 
-	            			Mirum est notare quam littera gothica, quam nunc putamus parum claram lorem.
-	            		</p>
-	            		<h3>Follow Her:</h3>
-	            		<div class="about-social">
-		                	<a href="#"><i class="fa fa-facebook"></i></a>
-		                	<a href="#"><i class="fa fa-dribbble"></i></a>
-		                    <a href="#"><i class="fa fa-twitter"></i></a>
-		                    <a href="#"><i class="fa fa-pinterest"></i></a>
-		                </div>
-	            	</div>
-	            </div>
-	        </div>
-        </div>
+       
  
 		<!-- Contact us (block 2) -->
         <div class="block-2-container section-container contact-container">
@@ -758,30 +637,40 @@
 	            </div>
 	            <div class="row">
 	            	<div class="col-sm-4 block-2-box block-2-left contact-form wow fadeInLeft">
-	            		<h3>Email us</h3>
-	                    <form role="form" action="assets/contact.php" method="post">
-	                    	<div class="form-group">
-	                    		<label class="sr-only" for="contact-email">Email</label>
-	                        	<input type="text" name="email" placeholder="Email..." class="contact-email form-control" id="contact-email">
-	                        </div>
-	                        <div class="form-group">
-	                        	<label class="sr-only" for="contact-subject">Subject</label>
-	                        	<input type="text" name="subject" placeholder="Subject..." class="contact-subject form-control" id="contact-subject">
-	                        </div>
-	                        <div class="form-group">
-	                        	<label class="sr-only" for="contact-message">Message</label>
-	                        	<textarea name="message" placeholder="Message..." class="contact-message form-control" id="contact-message"></textarea>
-	                        </div>
-	                        <button type="submit" class="btn">Send it</button>
-	                    </form>
+<!-- 	            		<h3>Email us</h3> -->
+<!-- 	                    <form role="form" action="assets/contact.php" method="post"> -->
+<!-- 	                    	<div class="form-group"> -->
+<!-- 	                    		<label class="sr-only" for="contact-email">Email</label> -->
+<!-- 	                        	<input type="text" name="email" placeholder="Email..." class="contact-email form-control" id="contact-email"> -->
+<!-- 	                        </div> -->
+<!-- 	                        <div class="form-group"> -->
+<!-- 	                        	<label class="sr-only" for="contact-subject">Subject</label> -->
+<!-- 	                        	<input type="text" name="subject" placeholder="Subject..." class="contact-subject form-control" id="contact-subject"> -->
+<!-- 	                        </div> -->
+<!-- 	                        <div class="form-group"> -->
+<!-- 	                        	<label class="sr-only" for="contact-message">Message</label> -->
+<!-- 	                        	<textarea name="message" placeholder="Message..." class="contact-message form-control" id="contact-message"></textarea> -->
+<!-- 	                        </div> -->
+<!-- 	                        <button type="submit" class="btn">Send it</button> -->
+<!-- 	                    </form> -->
 	            	</div>
 	            	<div class="col-sm-4 block-2-box block-2-right contact-address wow fadeInUp">
-	            		<h3>Visit us</h3>
-	                    <p><span aria-hidden="true" class="icon_pin"></span>Via Principe Amedeo 9, Torino, Italy</p>
-	                    <p><span aria-hidden="true" class="icon_phone"></span>Phone: 0039 333 12 68 347</p>
-	                    <p><span aria-hidden="true" class="icon_mail"></span>Email: <a href="">hi@yourdomain.com</a></p>
+	            		<h3>Call to Book:</h3>
+	            		 <p><span aria-hidden="true" class="icon_phone"></span>Phone Number</p>
+	                    <p><span aria-hidden="true" class="icon_pin"></span>Address Line 1</p>
+	                     <p><span aria-hidden="true" class="icon_pin"></span>Address Line 2</p>
+	                   
+	                    <br>
+	                    <br>
 	            	</div>
 	            </div>
+	            
+	            <div class="row">
+                       <div class="col-sm-10 footer-social">
+                    	<a href="#"><i class="fa fa-facebook"></i></a>
+	                </div>
+	                
+	                </div>
 	            <div class="contact-icon-container">
             		<span aria-hidden="true" class="icon_mail"></span>
             	</div>
@@ -798,19 +687,9 @@
 		        		</div>
 		        	</div>
 		        </div>
-	            <div class="row">
-                    <div class="col-sm-7 footer-copyright">
-                    	&copy; Lancar Bootstrap Template by <a href="http://azmind.com">Azmind</a>.
-                    </div>
-                    <div class="col-sm-5 footer-social">
-                    	<a href="#"><i class="fa fa-facebook"></i></a>
-	                	<a href="#"><i class="fa fa-dribbble"></i></a>
-	                    <a href="#"><i class="fa fa-twitter"></i></a>
-	                    <a href="#"><i class="fa fa-google-plus"></i></a>
-	                    <a href="#"><i class="fa fa-pinterest"></i></a>
-                    </div>
+	            
 	            </div>
-	        </div>
+	        
         </footer>
         
 
