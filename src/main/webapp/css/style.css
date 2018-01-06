@@ -9,7 +9,7 @@ body {
 
 strong { font-weight: 700; }
 
-a, a:hover, a:focus {
+div.navbar a, a:hover, a:focus {
 	color: #2ba560;
 	text-decoration: none;
     -o-transition: all .3s; -moz-transition: all .3s; -webkit-transition: all .3s; -ms-transition: all .3s; transition: all .3s;
@@ -648,7 +648,7 @@ ul.navbar-nav li a:focus { background: none; color: #2ba560; outline: 0; }
 footer {
 	padding: 25px 0 20px 0;
 	background: #404040;
-	text-align: right;
+	text-align: center;
 }
 
 footer .scroll-to-top {
@@ -699,9 +699,37 @@ footer .scroll-to-top a:hover, footer .scroll-to-top a:focus, footer .scroll-to-
 
 .p-font{
 	font-size:.8em;
-	color: black;
+	color: #888;
+	
+}
+
+.footer-font{
+	font-size:1em;
+	color: white;
+	padding-top: 35px;
+	padding-left: 75%;
 }
 
 .ben-font{
 	color: white;
 }
+
+.white-font{
+	color: white;
+}
+
+.row-zero{
+	margin-bottom: -7px;
+	font-size: 1.3em;
+}
+.row-one{
+	margin-bottom: -10px;
+}
+.row-two{
+	margin-bottom: -10px;
+}
+fb-color{
+	color: blue !important;
+	position: center;
+}
+

@@ -42,12 +42,12 @@
 
     <body>
     
-    <style>
+    <style type="text/css">
 	
 	
 	 #map {
     width: 84%;
-    height: 341px;
+    height: 381px;
     background-color: grey;
     margin-top: 3.7%;
     margin-bottom: 4%;
@@ -99,10 +99,10 @@
 				<div class="collapse navbar-collapse" id="top-navbar-1">
 					<ul class="nav navbar-nav navbar-right">
 						<li><a class="scroll-link" href="#top-content">Top</a></li>
-						<li><a class="scroll-link" href="#what-we-do">Services</a></li>
-						<li><a class="scroll-link" href="#portfolio">Portfolio</a></li>
+						<li><a class="scroll-link" href="#what-we-do">Book</a></li>
+						<li><a class="scroll-link" href="#portfolio">Studio</a></li>
 						<li><a class="scroll-link" href="#pricing-2">Prices</a></li>
-						<li><a class="scroll-link" href="#contact">Contact</a></li>
+						
 					</ul>
 				</div>
 			</div>
@@ -115,56 +115,56 @@
             	<p>We aim to please!</p>
             	<div class="page-title-bottom-link">
             		<a class="big-link-1 btn scroll-link" href="#contact">Book now</a>
-            		<a class="big-link-2 btn scroll-link" href="#what-we-do">Learn more</a>
+            		<a class="big-link-2 btn scroll-link" href="#section-test">Learn more</a>
             	</div>
             </div>
         </div>
 
-		<!-- What we do -->
-        <div class="block-3-container section-container what-we-do-container">
-	        <div class="container">
-	            <div class="row">
-	                <div class="col-sm-12 block-3 section-description wow fadeIn">
-	                    <h2>What we do</h2>
-	                    <div class="divider-1 wow fadeInUp"><span></span></div>
-	                    <p>
-	                    	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-	                    	labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-	                    </p>
-	                </div>
-	            </div>
-	            <div class="row">
-                	<div class="col-sm-3 block-3-box wow fadeInUp">
-	                	<div class="block-3-box-icon">
-	                		<span aria-hidden="true" class="icon_pencil"></span>
-	                	</div>
-	                    <h3>Web Design</h3>
-	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                    </div>
-                    <div class="col-sm-3 block-3-box wow fadeInDown">
-	                	<div class="block-3-box-icon">
-	                		<span aria-hidden="true" class="icon_cogs"></span>
-	                	</div>
-	                    <h3>Ui / Ux</h3>
-	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                    </div>
-                    <div class="col-sm-3 block-3-box wow fadeInUp">
-	                	<div class="block-3-box-icon">
-	                		<span aria-hidden="true" class="social_twitter"></span>
-	                	</div>
-	                    <h3>Social Media</h3>
-	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                    </div>
-                    <div class="col-sm-3 block-3-box wow fadeInDown">
-	                	<div class="block-3-box-icon">
-	                		<span aria-hidden="true" class="icon_lightbulb"></span>
-	                	</div>
-	                    <h3>Branding</h3>
-	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
-                    </div>
-	            </div>
-	        </div>
-        </div>
+<!-- 		<!-- What we do --> 
+<!--         <div class="block-3-container section-container what-we-do-container"> -->
+<!-- 	        <div class="container"> -->
+<!-- 	            <div class="row"> -->
+<!-- 	                <div class="col-sm-12 block-3 section-description wow fadeIn"> -->
+<!-- 	                    <h2>What we do</h2> -->
+<!-- 	                    <div class="divider-1 wow fadeInUp"><span></span></div> -->
+<!-- 	                    <p> -->
+<!-- 	                    	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut  -->
+<!-- 	                    	labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. -->
+<!-- 	                    </p> -->
+<!-- 	                </div> -->
+<!-- 	            </div> -->
+<!-- 	            <div class="row"> -->
+<!--                 	<div class="col-sm-3 block-3-box wow fadeInUp"> -->
+<!-- 	                	<div class="block-3-box-icon"> -->
+<!-- 	                		<span aria-hidden="true" class="icon_pencil"></span> -->
+<!-- 	                	</div> -->
+<!-- 	                    <h3>Web Design</h3> -->
+<!-- 	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p> -->
+<!--                     </div> -->
+<!--                     <div class="col-sm-3 block-3-box wow fadeInDown"> -->
+<!-- 	                	<div class="block-3-box-icon"> -->
+<!-- 	                		<span aria-hidden="true" class="icon_cogs"></span> -->
+<!-- 	                	</div> -->
+<!-- 	                    <h3>Ui / Ux</h3> -->
+<!-- 	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p> -->
+<!--                     </div> -->
+<!--                     <div class="col-sm-3 block-3-box wow fadeInUp"> -->
+<!-- 	                	<div class="block-3-box-icon"> -->
+<!-- 	                		<span aria-hidden="true" class="social_twitter"></span> -->
+<!-- 	                	</div> -->
+<!-- 	                    <h3>Social Media</h3> -->
+<!-- 	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p> -->
+<!--                     </div> -->
+<!--                     <div class="col-sm-3 block-3-box wow fadeInDown"> -->
+<!-- 	                	<div class="block-3-box-icon"> -->
+<!-- 	                		<span aria-hidden="true" class="icon_lightbulb"></span> -->
+<!-- 	                	</div> -->
+<!-- 	                    <h3>Branding</h3> -->
+<!-- 	                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p> -->
+<!--                     </div> -->
+<!-- 	            </div> -->
+<!-- 	        </div> -->
+<!--         </div> -->
         
 <!--         Clients -->
 <!--         <div class="clients-container section-container section-container-gray"> -->
@@ -191,7 +191,7 @@
 <!--         	</div> -->
 <!--         </div> -->
 
-<!-- 		<!-- Block 2 --> -->
+<!-- 		<!-- Block 2 -->
 <!--         <div class="block-2-container section-container"> -->
 <!-- 	        <div class="container"> -->
 <!-- 	            <div class="row"> -->
@@ -230,24 +230,29 @@
         
         <!-- Map -->
        
-        <div class="block-2-container section-container section-container-gray">
+        <div class="block-2-container section-container section-container-gray what-we-do-container">
 	        <div class="container">
 	            <div class="row">
 	             <div class="col-md-4 block-2-box block-2-right wow fadeInUp box-green">
 	             <div class="box-white">
         <ul>
 	            			<li>
-	            				<h3>Hidden Gem Massage</h3>
-	            			</li>
-	            			<li><div class="p-font">
-	            				<strong>Hours:</strong><br>
-	            				<div>
-	            				<strong>M-F:</strong> 9:30a - 9:00p</div>
-	            				<div><strong>Sat:</strong> Closed</div>
-	            				<div><strong>Sun: </strong>10:00a - 5:00p</div>
-	            				</div>
+	            				<h3>CALL TO BOOK</h3>
 	            			</li>
 	            			<li>
+	            			<strong><i class="fa fa-mobile fa-2x" aria-hidden="true"> </i> 	&nbsp  (216) 889-3674</strong>
+	            			</li>
+	            			<li><div class="p-font">
+	            				<div class="row-zero">
+	            				<strong>Hours:</strong>
+	            				</div>
+	            				<div class="row-one">
+	            				<strong>M-F:</strong> 9:30a - 9:00p</div>
+	            				<div class="row-two"><strong>Sat:</strong> Closed</div>
+	            				<div class="row-three"><strong>Sun: </strong>10:00a - 5:00p</div>
+	            				</div>
+	            			</li>
+	            			<li><i class="fa fa-map-marker fa-2x" aria-hidden="true"></i><br>
 	            				Address Line 1 <br>
 	            				Address Line 2 
 	            			</li>
@@ -364,38 +369,38 @@
 		                		</div>
 		                	</div>
 		                </div>
-		                <div class="portfolio-box design">
-		                	<img src="img/portfolio/7.jpg" alt="" data-at2x="img/portfolio/7.jpg">
-		                	<div class="portfolio-box-text-container">
-		                		<div class="portfolio-box-text">
-		                			<p>Celic template</p>
-		                		</div>
-		                	</div>
-		                </div>
-		                <div class="portfolio-box development">
-		                	<img src="img/portfolio/8.jpg" alt="" data-at2x="img/portfolio/8.jpg">
-		                	<div class="portfolio-box-text-container">
-		                		<div class="portfolio-box-text">
-		                			<p>Sit amet logo</p>
-		                		</div>
-		                	</div>
-		                </div>
-		                <div class="portfolio-box branding">
-		                	<img src="img/portfolio/9.jpg" alt="" data-at2x="img/portfolio/9.jpg">
-		                	<div class="portfolio-box-text-container">
-		                		<div class="portfolio-box-text">
-		                			<p>Jalia business</p>
-		                		</div>
-		                	</div>
-		                </div>
-		                <div class="portfolio-box design">
-		                	<img src="img/portfolio/10.jpg" alt="" data-at2x="img/portfolio/10.jpg">
-		                	<div class="portfolio-box-text-container">
-		                		<div class="portfolio-box-text">
-		                			<p>Mirum est notare</p>
-		                		</div>
-		                	</div>
-		                </div>
+<!-- 		                <div class="portfolio-box design"> -->
+<!-- 		                	<img src="img/portfolio/7.jpg" alt="" data-at2x="img/portfolio/7.jpg"> -->
+<!-- 		                	<div class="portfolio-box-text-container"> -->
+<!-- 		                		<div class="portfolio-box-text"> -->
+<!-- 		                			<p>Celic template</p> -->
+<!-- 		                		</div> -->
+<!-- 		                	</div> -->
+<!-- 		                </div> -->
+<!-- 		                <div class="portfolio-box development"> -->
+<!-- 		                	<img src="img/portfolio/8.jpg" alt="" data-at2x="img/portfolio/8.jpg"> -->
+<!-- 		                	<div class="portfolio-box-text-container"> -->
+<!-- 		                		<div class="portfolio-box-text"> -->
+<!-- 		                			<p>Sit amet logo</p> -->
+<!-- 		                		</div> -->
+<!-- 		                	</div> -->
+<!-- 		                </div> -->
+<!-- 		                <div class="portfolio-box branding"> -->
+<!-- 		                	<img src="img/portfolio/9.jpg" alt="" data-at2x="img/portfolio/9.jpg"> -->
+<!-- 		                	<div class="portfolio-box-text-container"> -->
+<!-- 		                		<div class="portfolio-box-text"> -->
+<!-- 		                			<p>Jalia business</p> -->
+<!-- 		                		</div> -->
+<!-- 		                	</div> -->
+<!-- 		                </div> -->
+<!-- 		                <div class="portfolio-box design"> -->
+<!-- 		                	<img src="img/portfolio/10.jpg" alt="" data-at2x="img/portfolio/10.jpg"> -->
+<!-- 		                	<div class="portfolio-box-text-container"> -->
+<!-- 		                		<div class="portfolio-box-text"> -->
+<!-- 		                			<p>Mirum est notare</p> -->
+<!-- 		                		</div> -->
+<!-- 		                	</div> -->
+<!-- 		                </div> -->
 		                
 	                </div>
 	            </div>
@@ -403,7 +408,7 @@
         </div>
         
 		<!-- Block 2 -->
-        <div class="block-2-container section-container section-container-gray">
+        <div class="block-2-container section-test-container section-container-gray " >
 	        <div class="container">
 	            <div class="row">
 	            	<div class="col-sm-6 block-2-box block-2-left wow fadeInLeft">
@@ -412,16 +417,16 @@
 	            		
 	            		<ul>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Reason One
+	            				<i class="fa fa-arrow-right" aria-hidden="true"></i> &nbsp Reason One
 	            			</li>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Reason Two
+	            				<i class="fa fa-arrow-right" aria-hidden="true"></i> &nbsp Reason Two
 	            			</li>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Reason Three
+	            				<i class="fa fa-arrow-right" aria-hidden="true"></i> &nbsp Reason Three
 	            			</li>
 	            			<li>
-	            				<span aria-hidden="true" class="icon_plus list-icon"></span> Reason Four
+	            				<i class="fa fa-arrow-right" aria-hidden="true"></i> &nbsp Reason Four
 	            			</li>
 	            		</ul>
 	            	</div>
@@ -459,78 +464,63 @@
 	                <div class="col-sm-12 pricing-2 section-description wow fadeIn">
 	                	<h2>Packages</h2>
 	                    <div class="divider-1 wow fadeInUp"><span></span></div>
-	                    <p>
-	                    	Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. 
-	                    	Mirum est notare quam littera gothica, quam nunc putamus parum claram lorem.
-	                    </p>
+	                
 	                </div>
 	            </div>
 	            <div class="row">
 	                <div class="col-sm-3 pricing-2-box wow fadeInUp">
 	                    <div class="pricing-2-table">
-	                    	<h3>Basic</h3>
-	                    	<h4>Freelancer</h4>
+	                    	<h3>30 min</h3>
+	                    	<h4>Quick But Efficient</h4>
 	                    	<div class="pricing-2-table-divider"><span></span></div>
-	                    	<div class="pricing-2-table-price">$<span>12</span>/month</div>
+	                    	<div class="pricing-2-table-price"><span>$30</span>.00</div>
 	                    	<div class="pricing-2-table-description">
-	                    		<p><span>1000</span> contacts</p>
-	                    		<p><span>Normal</span> speed</p>
-	                    		<p><span>500</span> emails</p>
-	                    		<p><span>300MB</span> storage</p>
+	                    		
 							</div>
 							<div class="pricing-2-table-button">
-								<a class="big-link-1 btn" href="#">Sign up</a>
+								<a class="big-link-1 scroll-link  btn" href="#what-we-do">Book Now</a>
 							</div>
 	                    </div>
 	                </div>
 	                <div class="col-sm-3 pricing-2-box wow fadeInDown">
 	                    <div class="pricing-2-table pricing-2-table-best">
-	                    	<h3>Ultimate</h3>
-	                    	<h4>Best value</h4>
+	                    	<h3>60 min</h3>
+	                    	<h4>Most Popular</h4>
 	                    	<div class="pricing-2-table-icon"><span aria-hidden="true" class="icon_like_alt"></span></div>
-	                    	<div class="pricing-2-table-price">$<span>35</span>/month</div>
+	                    	<div class="pricing-2-table-price"><span>$60</span>.00</div>
 	                    	<div class="pricing-2-table-description">
-	                    		<p><span>3000</span> contacts</p>
-	                    		<p><span>2x</span> speed</p>
-	                    		<p><span>2000</span> emails</p>
-	                    		<p><span>500MB</span> storage</p>
+	                    		
 							</div>
 							<div class="pricing-2-table-button">
-								<a class="big-link-1 btn" href="#">Sign up</a>
+								<a class="big-link-1 scroll-link btn" href="#what-we-do">Book Now</a>
 							</div>
 	                    </div>
 	                </div>
 	                <div class="col-sm-3 pricing-2-box wow fadeInUp">
 	                	<div class="pricing-2-table">
-	                    	<h3>Silver</h3>
-	                    	<h4>Big business</h4>
+	                    	<h3>75 min</h3>
+	                    	<h4>Great For Recovery</h4>
 	                    	<div class="pricing-2-table-divider"><span></span></div>
-	                    	<div class="pricing-2-table-price">$<span>75</span>/month</div>
+	                    	<div class="pricing-2-table-price"><span>$75</span>.00</div>
 	                    	<div class="pricing-2-table-description">
-	                    		<p><span>5000</span> contacts</p>
-	                    		<p><span>4x</span> speed</p>
-	                    		<p><span>4000</span> emails</p>
-	                    		<p><span>900MB</span> storage</p>
+	                    	
 							</div>
 							<div class="pricing-2-table-button">
-								<a class="big-link-1 btn" href="#">Sign up</a>
+								<a class="big-link-1 scroll-link btn" href="#what-we-do">Book Now</a>
 							</div>
 	                    </div>
 	                </div>
 	                <div class="col-sm-3 pricing-2-box wow fadeInDown">
 	                	<div class="pricing-2-table">
-	                    	<h3>Platinum</h3>
-	                    	<h4>Bigger business</h4>
+	                    	<h3>90 min</h3>
+	                    	<h4>Best For The Body</h4>
 	                    	<div class="pricing-2-table-divider"><span></span></div>
-	                    	<div class="pricing-2-table-price">$<span>120</span>/month</div>
+	                    	<div class="pricing-2-table-price"><span>$90</span>.00</div>
 	                    	<div class="pricing-2-table-description">
-	                    		<p><span>7000</span> contacts</p>
-	                    		<p><span>6x</span> speed</p>
-	                    		<p><span>8000</span> emails</p>
-	                    		<p><span>2GB</span> storage</p>
+	                    		
 							</div>
 							<div class="pricing-2-table-button">
-								<a class="big-link-1 btn" href="#">Sign up</a>
+								<a class="big-link-1 scroll-link btn" href="#what-we-do">Book Now</a>
 							</div>
 	                    </div>
 	                </div>
@@ -542,16 +532,15 @@
         <div class="testimonials-container section-container section-container-gray">
 	        <div class="container">
 	            <div class="row">
-	                <div class="col-sm-8 testimonials section-description wow fadeInLeft">
-	                    <h3>Listen to our clients</h3>
+	            
+	                <div class="col-sm-8 testimonials section-description wow fadeInLeft white-font">
+	                    <h2>Listen to our clients</h2>
 	                    <div class="testimonial-active"></div>
 	                    <div class="testimonial-single">
 	                    	<p>
-	                    		Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit 
-	                    		lobortis nisl ut aliquip ex ea commodo consequat. Ut wisi enim ad minim veniam, 
-	                    		quis nostrud exerci tation ullamcorper suscipit lobortis nisl.
+	                    		"Fake Testimonial 1"
 	                    		<br>
-	                    		<a href="">John Doe, johndoe.com</a>
+	                    		-John Doe
 	                    	</p>
 	                    	<div class="testimonial-single-image">
 	                    		<img src="img/testimonials/1.jpg" alt="" data-at2x="img/testimonials/1.jpg">
@@ -559,11 +548,9 @@
 	                    </div>
 	                    <div class="testimonial-single">
 	                    	<p>
-	                    		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
-	                    		ut labore et. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
-	                    		incididunt ut labore et.
+	                    	"Fake Testimonial 2"
 	                    		<br>
-	                    		<a href="">Jane Jonsson, blog.jane.com</a>
+	                    		-Jane Jonsson
 	                    	</p>
 	                    	<div class="testimonial-single-image">
 	                    		<img src="img/testimonials/2.jpg" alt="" data-at2x="img/testimonials/2.jpg">
@@ -571,11 +558,9 @@
 	                    </div>
 	                    <div class="testimonial-single">
 	                    	<p>
-	                    		Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit 
-	                    		lobortis nisl ut aliquip ex ea commodo consequat. Ut wisi enim ad minim veniam, 
-	                    		quis nostrud exerci tation ullamcorper suscipit lobortis nisl.
+	                    	"Fake Testimonial 3"
 	                    		<br>
-	                    		<a href="">John Doe, johndoe.com</a>
+	                    		-Phil McCracken
 	                    	</p>
 	                    	<div class="testimonial-single-image">
 	                    		<img src="img/testimonials/3.jpg" alt="" data-at2x="img/testimonials/3.jpg">
@@ -583,11 +568,9 @@
 	                    </div>
 	                    <div class="testimonial-single">
 	                    	<p>
-	                    		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt 
-	                    		ut labore et. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
-	                    		incididunt ut labore et.
+	                    		"Fake Testimonial 4"
 	                    		<br>
-	                    		<a href="">Jane Jonsson, blog.jane.com</a>
+	                    		-Slutty McSlut-Slut
 	                    	</p>
 	                    	<div class="testimonial-single-image">
 	                    		<img src="assets/img/testimonials/4.jpg" alt="" data-at2x="img/testimonials/4.jpg">
@@ -601,43 +584,41 @@
 	        </div>
         </div>
         
-        <!-- Call to action -->
-        <div class="call-to-action-container section-container section-container-full-bg">
-	        <div class="container">
-	            <div class="row">
-	                <div class="col-sm-12 call-to-action section-description wow fadeInLeftBig">
-	                    <p>
-	                    	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut 
-	                    	labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.
-	                    </p>
-	                </div>
-	            </div>
-	            <div class="row">
-                    <div class="col-sm-12">
-                        <div class="section-bottom-link wow fadeInUp">
-                        	<a class="big-link-1 btn scroll-link" href="#contact">Contact us now!</a>
-                        </div>
-                    </div>
-                </div>
-	        </div>
-        </div>
+<!--         Call to action -->
+<!--         <div class="call-to-action-container section-container section-container-full-bg"> -->
+<!-- 	        <div class="container"> -->
+<!-- 	            <div class="row"> -->
+<!-- 	                <div class="col-sm-12 call-to-action section-description wow fadeInLeftBig"> -->
+<!-- 	                    <p> -->
+<!-- 	                    	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut  -->
+<!-- 	                    	labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation. -->
+<!-- 	                    </p> -->
+<!-- 	                </div> -->
+<!-- 	            </div> -->
+<!-- 	            <div class="row"> -->
+<!--                     <div class="col-sm-12"> -->
+<!--                         <div class="section-bottom-link wow fadeInUp"> -->
+<!--                         	<a class="big-link-1 btn scroll-link" href="#contact">Contact us now!</a> -->
+<!--                         </div> -->
+<!--                     </div> -->
+<!--                 </div> -->
+<!-- 	        </div> -->
+<!--         </div> -->
        
  
 		<!-- Contact us (block 2) -->
-        <div class="block-2-container section-container contact-container">
-	        <div class="container">
-	            <div class="row">
-	                <div class="col-sm-12 block-2 section-description wow fadeIn">
-	                	<h2>Contact us</h2>
-	                	<div class="divider-1 wow fadeInUp"><span></span></div>
-	                    <p>
-	                    	For every question, information or just to say "Hi", here is how you can get in touch with us. Send us an email or come visit us!
-	                    </p>
-	                </div>
-	            </div>
-	            <div class="row">
-	            	<div class="col-sm-4 block-2-box block-2-left contact-form wow fadeInLeft">
-<!-- 	            		<h3>Email us</h3> -->
+<!--         <div class="block-2-container section-container contact-container"> -->
+<!-- 	        <div class="container"> -->
+<!-- 	            <div class="row"> -->
+<!-- 	                <div class="col-sm-12 block-2 section-description wow fadeIn"> -->
+<!-- 	                	<h2>CALL TO BOOK</h2> -->
+<!-- 	                	<div class="divider-1 wow fadeInUp"><span></span></div> -->
+	                    
+<!-- 	                </div> -->
+<!-- 	            </div> -->
+<!-- 	            <div class="row"> -->
+<!-- 	            	<div class="col-sm-4 block-2-box block-2-left contact-form wow fadeInLeft"> -->
+<!-- <!-- 	            		<h3>Email us</h3> --> 
 <!-- 	                    <form role="form" action="assets/contact.php" method="post"> -->
 <!-- 	                    	<div class="form-group"> -->
 <!-- 	                    		<label class="sr-only" for="contact-email">Email</label> -->
@@ -653,38 +634,48 @@
 <!-- 	                        </div> -->
 <!-- 	                        <button type="submit" class="btn">Send it</button> -->
 <!-- 	                    </form> -->
-	            	</div>
-	            	<div class="col-sm-4 block-2-box block-2-right contact-address wow fadeInUp">
-	            		<h3>Call to Book:</h3>
-	            		 <p><span aria-hidden="true" class="icon_phone"></span>Phone Number</p>
-	                    <p><span aria-hidden="true" class="icon_pin"></span>Address Line 1</p>
-	                     <p><span aria-hidden="true" class="icon_pin"></span>Address Line 2</p>
+	            	
+<!-- 	            Contact Info -->
+<!-- 	            	</div> -->
+<!-- 	            	<div class="col-sm-4 block-2-box block-2-right contact-address wow fadeInUp"> -->
+<!-- 	            		<h3>My Info:</h3> -->
+<!-- 	            		 <p><span aria-hidden="true" class="icon_phone"></span>Phone Number</p> -->
+<!-- 	                    <p><span aria-hidden="true" class="icon_pin"></span>Address Line 1</p> -->
+<!-- 	                     <p><span aria-hidden="true" class="icon_pin"></span>Address Line 2</p> -->
 	                   
-	                    <br>
-	                    <br>
-	            	</div>
-	            </div>
+<!-- 	                    <br> -->
+<!-- 	                    <br> -->
+<!-- 	            	</div> -->
+<!-- 	            </div> -->
 	            
-	            <div class="row">
-                       <div class="col-sm-10 footer-social">
-                    	<a href="#"><i class="fa fa-facebook"></i></a>
-	                </div>
+<!-- 	            <div class="row"> -->
+<!--                        <div class="col-sm-10 footer-social"> -->
+<!--                     	<a href="#"><i class="fa fa-facebook"></i></a> -->
+<!-- 	                </div> -->
 	                
-	                </div>
-	            <div class="contact-icon-container">
-            		<span aria-hidden="true" class="icon_mail"></span>
-            	</div>
-	        </div>
-        </div>
+<!-- 	                </div> -->
+<!-- 	            <div class="contact-icon-container"> -->
+<!--             		<span aria-hidden="true" class="icon_mail"></span> -->
+<!--             	</div> -->
+<!-- 	        </div> -->
+<!--         </div> -->
 
-        <!-- Footer -->
+<!--         Footer -->
         <footer>
 	        <div class="container">
 	        	<div class="row">
 		        	<div class="col-sm-12">
 		        		<div class="scroll-to-top">
 		        			<a href="#"><i class="fa fa-chevron-up"></i></a>
-		        		</div>
+		        			</div>
+		        			<br>
+		        			<br>
+		        			
+		        			<a href="https://www.facebook.com/"><i class="fa fa-facebook fb-color fa-4x"></i></a>
+		        			
+		        			<br>
+		        			<div class="footer-font"><strong>Created By: Max Wagner</strong></div>
+		        		
 		        	</div>
 		        </div>
 	            
@@ -694,22 +685,22 @@
         
 
         <!-- Javascript -->
-        <script src="js/jquery-1.11.1.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.backstretch.min.js"></script>
-        <script src="js/wow.min.js"></script>
-        <script src="js/retina-1.1.0.min.js"></script>
-        <script src="js/jquery.magnific-popup.min.js"></script>
-        <script src="js/waypoints.min.js"></script>
-        <script src="js/jquery.countTo.js"></script>
-        <script src="js/masonry.pkgd.min.js"></script>
-        <script src="js/scripts.js"></script>
+        <script src="js/jquery-1.11.1.min.js" type="text/javascript"></script>
+        <script src="js/bootstrap.min.js" type="text/javascript"></script>
+        <script src="js/jquery.backstretch.min.js" type="text/javascript"></script>
+        <script src="js/wow.min.js" type="text/javascript"></script>
+        <script src="js/retina-1.1.0.min.js" type="text/javascript"></script>
+        <script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
+        <script src="js/waypoints.min.js" type="text/javascript"></script>
+        <script src="js/jquery.countTo.js" type="text/javascript"></script>
+        <script src="js/masonry.pkgd.min.js" type="text/javascript"></script>
+        <script src="js/scripts.js" type="text/javascript"></script>
         
         <!--[if lt IE 10]>
             <script src="assets/js/placeholder.js"></script>
         <![endif]-->
 
-<script>
+<script type="text/javascript">
       var map;
       function initMap() {
         map = new google.maps.Map(document.getElementById('map'), {
@@ -759,7 +750,7 @@
  
     
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCk0sL7hRmBNuoqH7p3kgIasEX1L2jhcJA&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCk0sL7hRmBNuoqH7p3kgIasEX1L2jhcJA&callback=initMap" type="text/javascript">
    </script> 
     </body>
 
